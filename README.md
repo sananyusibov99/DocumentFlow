@@ -1,6 +1,6 @@
 # DocumentFlow
 
-A WPF document management app for a company: documents and their lifecycle, contacts, calendar, news and Gmail, all in one window. It was a team project built in 2019 at STEP IT Academy. The original repository is [programmistik/DocumentFlow](https://github.com/programmistik/DocumentFlow);
+A WPF document management app for a company: documents and their lifecycle, contacts, calendar, news and Gmail, all in one window. It was a team project built in 2019 at STEP IT Academy. The original repository is [programmistik/DocumentFlow](https://github.com/programmistik/DocumentFlow).
 
 ## What the app does
 
